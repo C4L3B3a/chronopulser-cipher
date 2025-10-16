@@ -5,31 +5,6 @@ It can **encode and decode messages** in Python, C#, and Lua using the same `chr
 
 ---
 
-## Project Structure
-
-```
-
-ChronoPulse/
-├── chronopulse.json          # Shared cipher map
-├── python/
-│   ├── chronopulse_encoder.py
-│   ├── chronopulse_decoder.py
-│   └── chronopulse_cli.py
-├── csharp/
-│   ├── ChronoPulseEncoder.cs
-│   ├── ChronoPulseDecoder.cs
-│   └── ChronoPulseCLI.cs
-├── lua/
-│   ├── chronopulse_encoder.lua
-│   ├── chronopulse_decoder.lua
-│   └── chronopulse_cli.lua
-├── README.md
-└── requirements.txt
-
-````
-
----
-
 ## Requirements
 
 ### Python
@@ -217,14 +192,6 @@ dotnet run --project csharp/ChronoPulseCLI.csproj
 ```bash
 lua lua/chronopulse_cli.lua
 ```
-
----
-
-## **`requirements.txt`** (Python)
-
-```txt
-pyinstaller>=6.0.0
-````
 
 ---
 

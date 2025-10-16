@@ -1,5 +1,5 @@
 // ==========================================================
-// ChronoPulse v2 - Encoder/Decoder (C#)
+// ChronoPulse Cipher - Encoder/Decoder (C#)
 // ----------------------------------------------------------
 // Author: Open Source Community
 // License: MIT

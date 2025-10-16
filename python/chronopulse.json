@@ -1,5 +1,5 @@
 {
-  "Name": "ChronoPulse v2 Cipher",
+  "Name": "ChronoPulse Cipher",
   "Description": "Geometric-symbolic code using □■●○☆♤♡◇♧《》¤₩÷ etc.",
   "Alphabet": {
     "A": "□■",
@@ -47,11 +47,9 @@
     "♧": {"Represents": ")", "Type": "bracket"},
     "《": {"Represents": "\"", "Type": "quote"},
     "》": {"Represents": "\"", "Type": "quote"},
-    "¤": {"Represents": "?", "Type": "symbol"},
     "₩": {"Represents": "$", "Type": "symbol"},
     "÷": {"Represents": "%", "Type": "symbol"},
     "°": {"Represents": "'", "Type": "symbol"},
-    "§": {"Represents": "!", "Type": "symbol"},
     "¦": {"Represents": "-", "Type": "symbol"},
     "¢": {"Represents": ".", "Type": "symbol"},
     "•": {"Represents": ",", "Type": "symbol"}

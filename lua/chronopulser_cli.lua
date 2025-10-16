@@ -1,5 +1,5 @@
 -- ==========================================================
--- ChronoPulse v2 - Encoder/Decoder (Lua)
+-- ChronoPulse Cipher - Encoder/Decoder (Lua)
 -- ----------------------------------------------------------
 -- Author: Open Source Community
 -- License: MIT
